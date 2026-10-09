@@ -1,0 +1,11 @@
+AccountConfiguration.json
+Configuration/AccountConfiguration.json
+jwt_cache.json
+guests.json
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store

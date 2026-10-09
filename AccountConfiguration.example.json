@@ -1,0 +1,18 @@
+{
+  "BD": {
+    "uid": 0,
+    "password": "SET_VIA_ENV"
+  },
+  "ID": {
+    "uid": 0,
+    "password": "SET_VIA_ENV"
+  },
+  "SG": {
+    "uid": 0,
+    "password": "SET_VIA_ENV"
+  },
+  "IND": {
+    "uid": 0,
+    "password": "SET_VIA_ENV"
+  }
+}
